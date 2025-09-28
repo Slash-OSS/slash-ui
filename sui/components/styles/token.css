@@ -1,0 +1,32 @@
+:root {
+    /* --- H1-H5 FONT SIZE (Desktop ≥1024px default) ---*/
+    --text-5x1: 3rem; /* 48px */
+    --text-lg: 1.125rem; /* 18px */
+    --font-size-h1: 2.5rem;      /*40px - Hero/Page Title*/
+    --font-size-h2: 2rem;        /*32px - Section Heading*/ 
+    --font-size-h3: 1.5rem;      /*24px -Subsection Heading*/
+    --font-size-h4: 1rem;        /*16px - Small Heading*/
+    --font-size-h5: 0.875rem;    /*14px - label like Heading*/
+    --font-size-lead: 1.125rem;   /*18px - Large intro text*/
+    --font-size-p: 1rem;         /*16px - Default body text*/
+    --font-size-label: 0.75rem;  /*12px for - Small labels/badge*/
+
+    /* --- FONT LINE HEIGHT ---*/
+    --line-height-tight: 1.2;       /* For large headings H1-H2 */
+    --line-height-snug: 1.3;        /* For subheadings H3-H4-H5*/
+    --line-height-normal: 1.5;      /* Default body text P */
+    --line-height-relaxed: 1.7;     /* Long paragraphs, readable - Lead Text- Long Content */
+    --line-height-caption: 1.4;     /* Small text / labels */
+    --line-height-small: 1.5;       
+
+    /* --- FONT WEIGHT ---*/
+    --font-weight-thin: 100;
+    --font-weight-extralight: 200;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;      /* Default body text */
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;    /* Common for headings */
+    --font-weight-bold: 700;        /* Strong emphasis */
+    --font-weight-extrabold: 800;
+    --font-weight-black: 900;       /* Very heavy */
+}

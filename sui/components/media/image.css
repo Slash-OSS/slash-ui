@@ -1,0 +1,55 @@
+.logo-image {
+    width: 72px;
+    height: auto;
+    object-fit: contain;
+}
+
+.image-card {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.border-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 1.5px solid #eee;
+}
+
+.cloud-logo {
+    width: 40px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+
+.component-cloudlogo {
+    width: 80px;
+}
+
+@media (max-width: 1024px) {
+.logo-image {
+    width: 64px;
+    height: auto;
+    object-fit: contain;
+}
+.cloud-logo {
+    width: 30px;
+}
+.component-cloudlogo {
+    width: 60px;
+}
+}
+
+@media (max-width: 428px) {
+.cloud-logo {
+    width: 20px;
+}
+.component-cloudlogo {
+    width: 40px;
+}
+}

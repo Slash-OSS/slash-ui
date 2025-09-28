@@ -1,0 +1,31 @@
+.small {
+    font-size: 14px;
+    line-height: 1.4;
+    padding: 8px 14px;
+    border-radius: 8px;
+    background-color: #111;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
+.large {
+    font-size: 18px;
+    padding: 14px 32px;
+    border-radius: 8px;
+    background-color: #111;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.small:hover {
+    background-color: #333;
+    transition: 0.2s;
+}
+
+.large:hover {
+    background-color: #333;
+    transition: 0.2s;
+}
