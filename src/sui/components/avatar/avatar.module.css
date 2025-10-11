@@ -1,0 +1,34 @@
+@import '../tokens.css';
+.logoimage {
+    width: 100%;
+    max-width: 4rem; /*64px*/
+    height: auto;
+    object-fit: contain;
+    border: none;
+    display: block;       
+}
+.squaresamll,
+.avatarborder {
+  width: 2rem; /*32px*/          
+  height: 2rem;
+  object-fit: cover;    
+  display: block;
+}
+.squaresamll {
+  border-radius: 0.5rem;
+}
+.avatarborder {
+  border-radius: 50%;   
+  border: 1px solid var(--color-border);
+}
+/*480px - 30rem*/
+@media (max-width: 30rem) {
+  .logoimage {
+    max-width: 3rem; /*48px*/
+  }
+  .squaresamll, 
+  .avatarborder {
+    width: 1.5rem; /*24px*/
+    height: 1.5rem;
+  }
+}

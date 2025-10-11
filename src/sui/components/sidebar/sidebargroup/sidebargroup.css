@@ -1,0 +1,7 @@
+@import '../../tokens.css';
+/* Group wrapper (sections) */
+.sidebar-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem; /*4px*/
+}

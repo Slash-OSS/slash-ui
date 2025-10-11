@@ -1,0 +1,15 @@
+@import '../tokens.css';
+.logoimage {
+    width: 100%;
+    max-width: 4rem;
+    height: auto;
+    object-fit: contain;
+    border: none;
+}
+.avatarsmall {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    object-fit: cover; 
+    display: block;
+}

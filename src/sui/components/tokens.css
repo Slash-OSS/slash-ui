@@ -1,0 +1,41 @@
+:root {
+  --color-background: oklch(1 0 0);
+  --sidebar-background: oklch(0.99 0 0);
+  --color-text: oklch(26.9% 0 0);
+  --color-primary: oklch(55.6% 0 0);
+  --color-hover: oklch(0.97 0 0);
+  --color-border: oklch(92.2% 0 0);
+  --color-card: oklch(0.98 0 0);
+}
+
+.dark-mode {
+  --color-background: oklch(0.14 0 0);
+  --sidebar-background: oklch(0.2 0 0);
+  --color-text: oklch(87% 0 0);
+  --color-primary: oklch(70.8% 0 0);
+  --color-hover: oklch(0.27 0 0);
+  --color-border: oklch(0.23 0 0);
+  --color-card: oklch(0.21 0 0);
+}
+
+/*For testing dark and light mode*/
+
+/* .dark-mode {
+  --color-background: oklch(1 0 0);
+  --sidebar-background: oklch(0.99 0 0);
+  --color-text: oklch(26.9% 0 0);
+  --color-primary: oklch(55.6% 0 0);
+  --color-hover: oklch(0.97 0 0);
+  --color-border: oklch(92.2% 0 0);
+  --color-card: oklch(0.98 0 0);
+}
+
+:root {
+  --color-background: oklch(0.14 0 0);
+  --sidebar-background: oklch(0.2 0 0);
+  --color-text: oklch(87% 0 0);
+  --color-primary: oklch(70.8% 0 0);
+  --color-hover: oklch(0.27 0 0);
+  --color-border: oklch(0.23 0 0);
+  --color-card: oklch(0.21 0 0);
+} */

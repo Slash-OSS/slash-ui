@@ -1,0 +1,18 @@
+@import '../../tokens.css';
+.typography-lead {
+    font-size: 1.125rem; /*18px*/
+    font-weight: 400;
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
+}
+.typography-lead,
+.typography-color {
+    color: var(--color-primary);
+}
+
+@media (max-width: 768px) {
+.typography-lead {
+    font-size: 1rem; /*18px*/
+}
+}

@@ -1,0 +1,9 @@
+@import '../tokens.css';
+.deconone {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: var(--color-primary);
+    gap: 0.5rem;
+}

@@ -1,0 +1,15 @@
+@import '../../tokens.css';
+.small-p,
+.typography-p {
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+.small-p {
+    font-size: 0.875rem;
+}
+.typography-p,
+.typography-color {
+    color: var(--color-text);
+}

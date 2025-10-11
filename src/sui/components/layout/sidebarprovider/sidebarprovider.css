@@ -1,0 +1,16 @@
+@import '../../tokens.css';
+
+.sidebar-provider-wrapper {
+  display: grid;
+  grid-template-columns: 15.625rem 1fr; /*250px*/ 
+  gap: 0.5rem;
+  align-items: start;
+  transition: grid-template-columns 0.3s ease;
+}
+
+@media (max-width: 768px) {
+  .sidebar-provider-wrapper {
+    grid-template-columns: 0 1fr; 
+    gap: 0;
+  }
+}

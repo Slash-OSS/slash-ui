@@ -1,0 +1,24 @@
+@import '../../tokens.css';
+.small-h2,
+.typography-h2 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+.small-h2 {
+    font-size: 2rem;
+}
+.typography-h2,
+.typography-color {
+    color: var(--color-text);
+}
+
+@media (max-width: 768px) {
+.typography-h2 {
+    font-size: 1rem;
+}
+.small-h2 {
+    font-size: 1.5rem;
+}
+}
