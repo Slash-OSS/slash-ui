@@ -11,17 +11,12 @@ import {
   DemoSidebarPage
 } from 'demo';
 
-import {
-  DocsIntroduction
-} from 'docs';
-
 function App() {
   return (
 
     <Router>
       <Routes>
-        <Route path="/" element={<DocsIntroduction />} />
-        <Route path="/demo/homepage" element={<DemoHomePage />} />
+        <Route path="/" element={<DemoHomePage />} />
         <Route path='/demo/sidebar/home' element={<DemoSidebarPage/>} />
         <Route path="/demo/inbox" element={<DemoInboxPage />} />
         <Route path="/demo/calendar" element={<DemoCalendarPage />} />

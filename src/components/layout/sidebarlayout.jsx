@@ -30,7 +30,7 @@ import INFO from "../../data/sidebar";
 
 const MenuFirst = [
   { name: "Application", plainText: true, bold:true },
-  { name: "Home", to: "/demo/homepage", icon: <SuiHomeIcon /> },
+  { name: "Home", to: "/", icon: <SuiHomeIcon /> },
   { name: "Inbox", to: "/demo/inbox", icon: <SuiInboxIcon />},
   { name: "Calendar", to: "/demo/calendar", icon: <SuiCalendarIcon /> },
   { name: "Search", to: "/demo/search", icon: <SuiSearchIcon />},
