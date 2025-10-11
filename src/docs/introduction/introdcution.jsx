@@ -14,7 +14,7 @@ export default function DocsIntroduction() {
                         <P className="typo-primary-space">Block: <LinkText to="/demo/homepage" target="_blank">Sidebar Block</LinkText></P>
                         <Divider/>
                         <P className="typo-primary-space">Visite SlashUI: <LinkText to="https://github.com/Slash-OSS/slash-ui" target="_blank">GitHub Repo</LinkText></P>
-                        <P className="typo-primary-space">Chat with us on: <LinkText to="https://wa.me/6307765305?text=Welcome%20SlashUI!" target="_blank">WhatsApp</LinkText></P>
+                        <P className="typo-primary-space">Chat with us on: <LinkText to="https://wa.me/+916307765305?text=Welcome%20SlashUI!" target="_blank">WhatsApp</LinkText></P>
                     </div>
                 </div>
         </div>
