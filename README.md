@@ -129,12 +129,12 @@ Visit https://www.slashainow.com
 
 ---
 
-## Support / Contributing
+## Support 
 
 Bug reports, and feature suggestions are welcome! Visit our GitHub Repo:
 [SlahUI Repo](https://discord.gg/kw5wVaBkN8).
 
-Your support helps build better **better components for everyone**.
+Your support helps build **better components for everyone**.
 
 ## License
 
