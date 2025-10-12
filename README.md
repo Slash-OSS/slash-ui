@@ -27,7 +27,7 @@ Add SlashUI to your Project:
 import Si
 Import Sidebar and related blocks in your React Project:
 
-`import {
+```import {
 Sidebar,
 SidebarHeader,
 SidebarContent,
@@ -38,7 +38,8 @@ Link,
 Image,
 Avatar,
 P
-} from 'sui/components';`
+} from 'sui/components';
+```
 
 ---
 
