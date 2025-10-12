@@ -14,6 +14,7 @@ A component system for building products with speed. SlashUI helps you ship **ac
 * Composable **blocks** and templates for real-world applications.
 * Accessibility-first and responsive by default.
 * Framework-agnostic design (usable in React, Vue, Next.js, TailwindCSS, and other modern frameworks).
+* The integrated light/dark mode component lets users instantly switch themes.
 * Built for scalability.
 
 ---
