@@ -86,7 +86,8 @@ For a full list of components and their usage, view the [Docs Home](docs/README.
 <P>{username}</P>
 </Link>
 </SidebarFooter>
-</Sidebar>`
+</Sidebar>
+```
 
 ## Getting Started
 
@@ -96,19 +97,8 @@ For a full list of components and their usage, view the [Docs Home](docs/README.
 git clone https://github.com/Slash-OSS/slash-ui.git
 cd slash-ui
 npm install  
-npm run dev   
+npm run dev
 ```
-
-### Installation for Projects
-### Install as a dependency:
-
-```bash
-# Note with npm/yarn coming soon 
-npm install slashui
-# or
-yarn add slashui
-```
-
 ---
 
 ## Documentation
@@ -141,21 +131,9 @@ Visit https://www.slashainow.com/docs
 
 ---
 
-## Community
-
-Join our developer community to:
-
-* Share feedback and ideas
-* Get early access to new components
-* Connect with other developers
-
-[Join our Discord](https://discord.gg/kw5wVaBkN8)
-
----
-
 ## Support / Contributing
 
-Contributions, bug reports, and feature suggestions are welcome! Visit our GitHub Repo:
+Bug reports, and feature suggestions are welcome! Visit our GitHub Repo:
 [SlahUI Repo](https://discord.gg/kw5wVaBkN8).
 
 Your support helps build better **better components for everyone**.
