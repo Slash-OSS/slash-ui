@@ -45,8 +45,7 @@ P
 
 Find detailed guides and API documentation for individual components:
 
-- [Sidebar Component API Reference](docs/components/Sidebar.md)
-- [Button Component API Reference](docs/components/Button.md)
+- [Sidebar Component API Reference](https://github.com/Slash-OSS/slash-ui/tree/main/src/sui/components/sidebar)
 
 For a full list of components and their usage, view the [Docs Home](docs/README.md) or visit our documentation site.
 
