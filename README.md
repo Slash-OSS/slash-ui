@@ -24,7 +24,6 @@ Installation
 Add SlashUI to your Project:
 
 ## Import Usage
-import Si
 Import Sidebar and related blocks in your React Project:
 
 ```import {
@@ -48,8 +47,6 @@ P
 Find detailed guides and API documentation for individual components:
 
 - [Sidebar Component API Reference](https://github.com/Slash-OSS/slash-ui/tree/main/src/sui/components/sidebar)
-
-For a full list of components and their usage, view the [Docs Home](docs/README.md) or visit our documentation site.
 
 ---
 
