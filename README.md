@@ -4,7 +4,7 @@ A component system for building products with speed. SlashUI helps you ship **ac
 
 ---
 
-![SlashUI Screenshot](https://raw.githubusercontent.com/connectwithshivamk/connectwithshivamk/refs/heads/main/slashui-v0.1.0.png)
+![SlashUI Screenshot](https://github.com/connectwithshivamk/connectwithshivamk/blob/main/firstv-sidebar.png?raw=true)
 
 ---
 
