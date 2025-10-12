@@ -66,7 +66,7 @@ For a full list of components and their usage, view the [Docs Home](docs/README.
 
 ## Sidebar Usage Example
 
-`<Sidebar>
+```<Sidebar>
 <SidebarHeader>
 <Link to="/">
 <Image variant="AvatarSmall" src={logo} alt="Site Logo" />
