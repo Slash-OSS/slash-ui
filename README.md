@@ -102,7 +102,7 @@ npm run dev
 ## Documentation
 
 Upcoming: Docs and guides are available at:
-Visit https://www.slashainow.com/docs
+Visit https://www.slashainow.com
 
 ---
 
